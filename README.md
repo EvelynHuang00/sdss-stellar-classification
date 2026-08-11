@@ -131,7 +131,7 @@ sdss-stellar-classification/
 ├── report.pdf
 │
 ├── data/
-│   └── README.md
+│   └── data-readme.md
 │
 ├── notebooks/
 │   └── sdss_analysis.ipynb
